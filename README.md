@@ -7,7 +7,7 @@
 - 2.将RAW数据导入AWS S3
 - 3.利用pyspark + matplotlib 做简单可视化
 
-**\\etc\\profile\\** 部分
+**\\etc\\conf\\** 部分
 - 1.放配置文件
 
 **\\scripts\\** 部分
